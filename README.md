@@ -5,22 +5,24 @@
 ***
 # Installation
 
-**Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız lik gelecektir).**
+**Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız lik gelecektir).**
 ***
 # Usage
 *Projeyi cloneladıktan sonra Visual Studio Code programında açınız.*
 
 Linux için:
-'''
+
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
+
 ***
 # Contributing
-'Pull requestler' kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+`Pull requestler` kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ***
 # License
-[Link](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 ***
 
-[Link](https://app.patika.dev) > Patika ekibine teşekkürler.
+[Patika](https://app.patika.dev) > Patika ekibine teşekkürler.
